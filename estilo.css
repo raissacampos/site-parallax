@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.primario{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+ul li{
+    display: inline-block;
+    list-style: none;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.logo{
+    padding-left: 400px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.menu{
+    padding-right: 400px;
+}
